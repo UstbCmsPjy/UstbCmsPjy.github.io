@@ -69,7 +69,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: chauby/chauby.github.io
+repository: UstbCmsPjy/UstbCmsPjy.github.io
 
 # Search
 simple_jekyll_search:
