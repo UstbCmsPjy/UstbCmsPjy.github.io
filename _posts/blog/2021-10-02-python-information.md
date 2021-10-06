@@ -1,7 +1,7 @@
 ---
 layout: post
 title: template page
-categories: [Blog]
+categories: [Abaqus]
 description: some word here
 keywords: mechanical, deform
 ---
